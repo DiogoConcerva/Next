@@ -5,4 +5,5 @@ Olá, eu sou Diogo Concerva, estudante do curso Next do Cesar School, trabalho n
 - Gosto muito de tecnologia
 - Tenho uma filha chamada Valentina
 - Minha esposa se chama Gabriela
-- Sou natura de Salgueiro/PE
+- Sou natural de Salgueiro/PE
+- Moro em Recife desde de 1999
