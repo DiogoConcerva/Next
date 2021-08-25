@@ -4,3 +4,4 @@ Olá, eu sou Diogo Concerva, estudante do curso Next do Cesar School, trabalho n
 ## Curiosidades
 - Gosto muito de tecnologia
 - Tenho uma filha chamada Valentina
+- Minha esposa se chama Gabriela
